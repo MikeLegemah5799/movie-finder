@@ -5,8 +5,11 @@ body {
 
 .search-form {
     width: 100%;
-    margin: auto;
-    
+    margin: auto;  
     padding: 0 20px 20px 20px;
     border: 1px red solid;
+}
+
+img {
+    width: 100%;
 }
